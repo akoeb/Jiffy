@@ -1,8 +1,8 @@
-= Jiffy = 
+# Jiffy  
 
 Python module that implements the JiffyBox API
 
-== Description ==
+## Description
 
 JiffyBox is a cloud system from HostEurope, details can be found under http://www.df.eu/de/cloud-hosting/cloud-server/ (German)
 This python module implements the API from JiffyBox as documented under http://www.df.eu/fileadmin/media/doc/jiffybox-api-dokumentation.pdf
@@ -14,7 +14,7 @@ Additionally, if you want to give me any hints or comments about coding style, b
 Also you can send me feature requests, but I don't promise to implement them, that depends on my time and my mood. However, you could consider hiring me if you have urgent feature requests ;-)
 
 
-== Usage Example ==
+## Usage Example
 
 ```python
 
@@ -80,10 +80,11 @@ while (True):
 There are many more api calls implemented, some of them are not even tested very thoroughly. Read the source, Luke!
 
 
-== Requirements ==
+## Requirements
+
 The module uses the python-requests library to make the actual calls.
 
-== TODO ==
+## TODO
 
 Actually a lot, the module is an a state so I can use it, but a lot is still missing for global usage. an incomplete list:
 * Error checking, basically no error checks are implemented yet
@@ -93,10 +94,10 @@ Actually a lot, the module is an a state so I can use it, but a lot is still mis
 * test
 * test
 
-== License ==
+## License
 
 GPLv3 - see LICENSE file for full license statement
 
-== Author ==
+## Author
 
-Alexander Köb nerdkram@koeb.me
+Alexander Köb< nerdkram@koeb.me>
