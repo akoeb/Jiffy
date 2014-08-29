@@ -4,7 +4,7 @@ Python module that implements the JiffyBox API
 
 ## Description
 
-JiffyBox is a cloud system from HostEurope, details can be found under http://www.df.eu/de/cloud-hosting/cloud-server/ (German)
+JiffyBox is a cloud system from domainfactory GmbH, details can be found under http://www.df.eu/de/cloud-hosting/cloud-server/ (German)
 This python module implements the API from JiffyBox as documented under http://www.df.eu/fileadmin/media/doc/jiffybox-api-dokumentation.pdf
 
 Many of the API calls are implemented without being tested, I basically typed down the API as it is documented and tested only the functions that I needed myself. So if you find any error, I would be happy if you send me a bug report or even better a pull request with the bugfix.
